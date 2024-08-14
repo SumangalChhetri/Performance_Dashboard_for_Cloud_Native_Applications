@@ -82,7 +82,3 @@ You can now save this content as `README.md` in your project's root directory. I
 
 - **Username**: admin
 - **Password**: admin
-
-## Conclusion
-
-These instructions cover accessing Grafana and its default credentials. meger all this md file as README.md
