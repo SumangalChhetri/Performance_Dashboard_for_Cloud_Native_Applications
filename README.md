@@ -1,6 +1,5 @@
 Here’s the corrected and properly formatted `README.md` file with all the instructions and sections organized appropriately:
 
-```markdown
 # Kubernetes Monitoring Project
 
 ## Overview
